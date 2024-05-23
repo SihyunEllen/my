@@ -8,7 +8,7 @@ http://logo_link
 
 include some badges such as build status, test coverage, etc.
 
-(http://badge_link)
+<http://badge_link>
 
 ### Features
 - Feature 1
